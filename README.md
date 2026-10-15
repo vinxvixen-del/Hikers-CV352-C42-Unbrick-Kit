@@ -35,4 +35,4 @@ Si tu pantalla Hikers se queda congelada en el logotipo de inicio (bootloop), no
 ## ☕ Apoyo al Proyecto / Donaciones
 Si este kit te ayudó a revivir tu Smart TV y te ahorró el costo de reemplazar la tarjeta lógica, considera dejar una donación voluntaria para apoyar la preservación y el mantenimiento de firmwares libres:
 
-* 💳 PayPal / Donaciones: [https://paypal.me/](https://paypal.me/)
+* 💳 PayPal / Donaciones: https://paypal.me/VicenteCastillo885
